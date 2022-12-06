@@ -12,7 +12,7 @@ spec:
   project: default
   source:
     path: kustom-charts/ingress-nginx
-    repoURL: git@github.com:SelfhostedPro/argo-cd-aoa-boilerplate.git
+    repoURL: git@github.com:sunilRF9/argo-cd-aoa-boilerplate.git
     targetRevision: master
     plugin:
       name: kustomized-helm

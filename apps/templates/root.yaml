@@ -11,7 +11,7 @@ spec:
   project: default
   source:
     path: apps/
-    repoURL: git@github.com:SelfhostedPro/argo-cd-aoa-boilerplate.git
+    repoURL: git@github.com:sunilRF9/argo-cd-aoa-boilerplate.git
     targetRevision: master
   syncPolicy:
     automated:
